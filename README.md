@@ -69,6 +69,9 @@ urlpatterns = [
 ]
 ```
 
+```bash
+python manage.py runserver
+```
 
 
 ## Learn more!
